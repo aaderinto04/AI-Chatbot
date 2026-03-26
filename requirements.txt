@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+openai
+faiss-cpu
+pypdf
+tiktoken
+numpy
+tenacity
